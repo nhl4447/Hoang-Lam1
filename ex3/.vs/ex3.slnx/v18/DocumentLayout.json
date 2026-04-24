@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51886D0D-9E35-48CF-B3E5-0105E3A68B11}|ex3\\ex3.csproj|c:\\cslt1\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex3.cs",
+              "DocumentMoniker": "C:\\CSLT1\\ex3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\CSLT1\\ex3.cs",
+              "ToolTip": "C:\\CSLT1\\ex3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CSLT1\\ex3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T02:15:37.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
